@@ -8,7 +8,7 @@ import Projects from './Components/Projectsection/Projects'
 import Testominal from './Components/Testominalsection/Testominal'
 import Rating from './Components/Ratingsection/Rating'
 import Footer from './Components/Footersection/Footer'
-import Hero from './Components/HeroSection/Hero'
+import Hero from './Components/HeroSection/Hero.jsx'
 
 
 const App = () => {
